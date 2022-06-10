@@ -1,0 +1,3 @@
+---
+roles:
+  - name: k48269.ansible_role_example
