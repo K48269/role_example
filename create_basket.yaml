@@ -4,7 +4,7 @@
     resource_name: ansible_bucket_sample
     gcp_project: verdant-nova-350116
     gcp_cred_kind: serviceaccount
-    gcp_cred_file: /home/kiran/account.json
+    gcp_cred_file: gcp
 
 
   tasks:
