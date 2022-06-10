@@ -4,8 +4,9 @@
     resource_name: ansible_bucket_sample
     gcp_project: verdant-nova-350116
     gcp_cred_kind: serviceaccount
-   
+    gcp_cred_file: gcp_service_account
 
+   
 
   tasks:
     - name: create a bucket
